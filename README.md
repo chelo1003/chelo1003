@@ -20,7 +20,7 @@ Actualmente me encuentro realizando una transición desde mi carrera de Ingenier
 ![Seaborn](https://img.shields.io/badge/-Seaborn-cyan?style=flat&logo=seaborn)
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-cyan?style=flat&logo=scikitlearn)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-cyan?style=flat&logo=fastapi)
-![Unity](https://img.shields.io/badge/-Unity-cyan?style=flat&logo=unity)   
+![Unity](https://img.shields.io/badge/-Unity-cyan?style=flat&logo=unity&logoColor=black)   
 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-cyan?style=flat&logo=streamlit)
 ![MySQL](https://img.shields.io/badge/-MySQL-cyan?style=flat&logo=MySQL)
