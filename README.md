@@ -13,9 +13,9 @@ Actualmente me encuentro realizando una transición desde mi carrera de Ingenier
 
 ![Python](https://img.shields.io/badge/-Python-cyan?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-cyan?style=flat&logo=sql)
-![Markdown](https://img.shields.io/badge/-Markdown-cyan?style=flat&logo=markdown)
-![Pandas](https://img.shields.io/badge/-Pandas-cyan?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-cyan?style=flat&logo=numpy)
+![Markdown](https://img.shields.io/badge/-Markdown-cyan?style=flat&logo=markdown&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-cyan?style=flat&logo=pandas&logoColor=black)
+![Numpy](https://img.shields.io/badge/-Numpy-cyan?style=flat&logo=numpy&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-cyan?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-cyan?style=flat&logo=seaborn)
 ![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-cyan?style=flat&logo=scikitlearn)
@@ -25,13 +25,11 @@ Actualmente me encuentro realizando una transición desde mi carrera de Ingenier
 ![Streamlit](https://img.shields.io/badge/-Streamlit-cyan?style=flat&logo=streamlit)
 ![MySQL](https://img.shields.io/badge/-MySQL-cyan?style=flat&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-cyan?style=flat&logo=docker)
-![Apache](https://img.shields.io/badge/-Apache-cyan?style=flat&logo=apache-hadoop)
-![Tableau](https://img.shields.io/badge/-Tableau-cyan?style=flat&logo=tableau)
+![Apache](https://img.shields.io/badge/-Apache-cyan?style=flat&logo=apache&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-cyan?style=flat&logo=tableau&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-cyan?style=flat&logo=powerbi)
-![GitHub](https://img.shields.io/badge/-GitHub-cyan?style=flat&logo=github)
-![Colab](https://img.shields.io/badge/-colab-cyan?style=flat&logo=colabbadge)
+![GitHub](https://img.shields.io/badge/-GitHub-cyan?style=flat&logo=github&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-cyan?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
 
 
 **Podés contactarme por los siguientes medios:**  
