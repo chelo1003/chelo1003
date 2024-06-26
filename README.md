@@ -3,9 +3,9 @@
 
 Soy Analista de Datos 💻 formado en el Bootcamp de SoyHenry (https://www.soyhenry.com/). 
 
-Desde chico me sentí interesado por los datos representados en números, y los patrones que definen su comportamiento pasado y futuro. 📈
+Tengo un background en Ingeniería Civil 👷🏻‍♂️, con más de 15 años de ejercicio profesional, en los que me desempeñé como ingeniero de obra 🚧 en relación de dependencia, al mismo tiempo que desarrollé en proyectos de construcción y cálculos estructurales, como profesional independiente.  
 
-Actualmente me encuentro realizando una transición desde mi carrera de Ingeniero Civil 👷🏻‍♂️ hacia una dedicación full-time en el campo de la Ciencia de Datos, donde pueda aplicar y seguir adquiriendo conocimientos en el campo de las TI, y combinando el apasionante mundo del código y los números. 🤖
+Actualmente me encuentro realizando una transición desde mi carrera de Ingeniero 👷🏻‍♂️ hacia una dedicación full-time en el campo de los Datos, donde pueda aplicar lo aprendido y seguir adquiriendo conocimientos en el área de las TI, y combinando el apasionante mundo del código y los números. 🤖
 
 #### Te invito a revisar mi repositorio, donde podés encontrar algunos de los proyectos en lo que he trabajado.
 
