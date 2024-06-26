@@ -1,5 +1,5 @@
 ## Hola! 👋, Soy Marcelo Trinkard
-#### Ciencia de Datos | Pasión por los Números | Python | SQL | BI
+#### Data Engineering, Science, Analytics | Python - Pandas | SQL | Power BI - Tableau | ETL - EDA | Google Cloud | Data Bases | Docker | Machine Learning
 
 Soy Analista de Datos 💻 formado en el Bootcamp de SoyHenry (https://www.soyhenry.com/). 
 
